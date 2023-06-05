@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "631699664739",
+    "firebase_url": "https://e-commerce-pfa-d3344-default-rtdb.firebaseio.com",
+    "project_id": "e-commerce-pfa-d3344",
+    "storage_bucket": "e-commerce-pfa-d3344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631699664739:android:51a44de7186c9c4bb32d56",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631699664739-1c3op3lct35ir9hv74ddigkuuf04vpn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminpanel",
+            "certificate_hash": "7c76769f101de609b0d7b9e6376c7bf538851e2e"
+          }
+        },
+        {
+          "client_id": "631699664739-nc5mlth6i9h8f3u2udq6319th2jrleke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHK2fD-jJOOdUAImVSHUwCJ3vJrSdOyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631699664739-alkenedmtnij8so80379cp80b806e0fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631699664739-05l8rts1n7c695tnf9ra3tsa5ns4bndg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emsi.ecommerce-pfa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631699664739:android:1f527f4df944260db32d56",
+        "android_client_info": {
+          "package_name": "com.example.youtube_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631699664739-8n7fhk7mroobir4i2su5oar4l6j3b8us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtube_ecommerce",
+            "certificate_hash": "7c76769f101de609b0d7b9e6376c7bf538851e2e"
+          }
+        },
+        {
+          "client_id": "631699664739-nc5mlth6i9h8f3u2udq6319th2jrleke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHK2fD-jJOOdUAImVSHUwCJ3vJrSdOyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631699664739-alkenedmtnij8so80379cp80b806e0fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631699664739-05l8rts1n7c695tnf9ra3tsa5ns4bndg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emsi.ecommerce-pfa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
