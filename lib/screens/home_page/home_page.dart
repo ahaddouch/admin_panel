@@ -58,19 +58,21 @@ class _HomePageState extends State<HomePage> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const CircleAvatar(
+                      backgroundImage: NetworkImage(
+                          "https://media.licdn.com/dms/image/D4E35AQF71J9TB8imgQ/profile-framedphoto-shrink_400_400/0/1685405825155?e=1687881600&v=beta&t=BH0MyiA4VKoPIfoUg5yNow-Ku_x5Taiarn1HdYsK4IM"),
                       radius: 30,
                     ),
                     const SizedBox(
                       height: 12.0,
                     ),
                     const Text(
-                      "Sabir Dev",
+                      "AHADDOUCH ADAM",
                       style: TextStyle(
                         fontSize: 18,
                       ),
                     ),
                     const Text(
-                      "abugti532@gmail.com",
+                      "ahaddouchadam2@gmail.com",
                       style: TextStyle(
                         fontSize: 18,
                       ),

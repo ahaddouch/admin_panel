@@ -77,7 +77,7 @@ Future<void> sendNotificationToAllUsers(
   allUserToken = newAllUserToken;
   // Replace 'YOUR_SERVER_KEY' with your Firebase Cloud Messaging server key
   const String serverKey =
-      '';
+      'AAAAkxQ772M:APA91bGVp_g2utV9jBFqJv61Nj_L6QeMUpkYfzSgF0Fduvfz4H0p747pcH8RR1d0BdfJAQ4J7mXZH8PcI-lhq8iLn6IwY2Hscm3uA5_udJA5LKYjhLbrZWyJHeHfD8zTMygzaeTRinM8';
 
   const String firebaseUrl = 'https://fcm.googleapis.com/fcm/send';
 
